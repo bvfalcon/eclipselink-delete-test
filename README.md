@@ -48,4 +48,4 @@ Test finished
 
 Explanation:
 
-Execution of `DELETE FROM Example` gives an error, but execution `DELETE FROM Example x` works correctly.
+Execution of `DELETE FROM name.bychkov.test.Example` gives an error, but execution `DELETE FROM name.bychkov.test.Example x` works correctly.
